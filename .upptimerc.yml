@@ -6,20 +6,25 @@ sites:
   - name: TVS (Login) - OpenID Config
     url: https://tvs.coronacheck.nl/.well-known/openid-configuration
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
   # - name: TVS (Login) - Heartbeat
   #   url: https://tvs.coronacheck.nl/heartbeat
   - name: TVS (Login) - Sorry Too Busy
     url: https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
   - name: Holder API - Config
     url: https://holder-api.coronacheck.nl/v4/holder/config
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
   - name: Holder API - Provider config
     url: https://holder-api.coronacheck.nl/v4/holder/config_providers
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
   - name: Holder API - Convert access tokens
     url: https://holder-api.coronacheck.nl/v4/holder/access_tokens
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 405
