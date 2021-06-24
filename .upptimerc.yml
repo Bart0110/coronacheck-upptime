@@ -7,8 +7,10 @@ sites:
     url: https://tvs.coronacheck.nl/.well-known/openid-configuration
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
     maxResponseTime: 10000
-  # - name: TVS (Login) - Heartbeat
-  #   url: https://tvs.coronacheck.nl/heartbeat
+  - name: TVS (Login) - Health
+    url: https://tvs.coronacheck.nl/health
+    icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
+    maxResponseTime: 10000
   - name: TVS (Login) - Sorry Too Busy
     url: https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=
     icon: https://www.google.com/s2/favicons?domain=coronacheck.nl
