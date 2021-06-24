@@ -7,6 +7,8 @@ sites:
     url: https://tvs.coronacheck.nl/.well-known/openid-configuration
   # - name: TVS (Login) - Heartbeat
   #   url: https://tvs.coronacheck.nl/heartbeat
+  - name: TVS (Login) - Authorize
+    url: https://tvs.coronacheck.nl/authorize?client_id=cc_web&redirect_uri=https%3A%2F%2Fcoronacheck.nl%2Fnl%2Fprint%2Fjouw-vaccinaties-redirect&response_type=code&scope=openid&state=&code_challenge=&code_challenge_method=S256&response_mode=query&nonce=
   - name: TVS (Login) - Sorry Too Busy
     url: https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=
   - name: Holder API - Config
