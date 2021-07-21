@@ -4,46 +4,50 @@
     "url": "https://tvs.coronacheck.nl/health",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 424,
     "timeDay": 697,
     "timeWeek": 427,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 3
+    }
   },
   {
     "name": "TVS (Login) - OpenID Config",
     "url": "https://tvs.coronacheck.nl/.well-known/openid-configuration",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-open-id-config",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 341,
     "timeDay": 155,
     "timeWeek": 97,
     "timeMonth": 341,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   },
   {
     "name": "TVS (Login) - Sorry Too Busy",
     "url": "https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-sorry-too-busy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
@@ -51,17 +55,19 @@
     "timeWeek": 394,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   },
   {
     "name": "Holder API - Config",
     "url": "https://holder-api.coronacheck.nl/v4/holder/config",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-config",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
@@ -69,17 +75,19 @@
     "timeWeek": 598,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 1
+    }
   },
   {
     "name": "Holder API - Provider config",
     "url": "https://holder-api.coronacheck.nl/v4/holder/config_providers",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-provider-config",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
@@ -87,16 +95,18 @@
     "timeWeek": 664,
     "timeMonth": 559,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 1
+    }
   },
   {
     "name": "Holder API - Convert access tokens",
     "url": "https://holder-api.coronacheck.nl/v4/holder/access_tokens",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-convert-access-tokens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 105,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   }
 ]
