@@ -5,18 +5,17 @@
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-health",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.91%",
-    "time": 434,
-    "timeDay": 503,
-    "timeWeek": 453,
-    "timeMonth": 428,
-    "timeYear": 434,
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
+    "time": 438,
+    "timeDay": 567,
+    "timeWeek": 470,
+    "timeMonth": 435,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2021-08-01": 8,
       "2021-07-31": 19,
       "2021-07-21": 24
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 276,
-    "timeDay": 86,
-    "timeWeek": 119,
-    "timeMonth": 101,
-    "timeYear": 276,
+    "time": 274,
+    "timeDay": 153,
+    "timeWeek": 127,
+    "timeMonth": 103,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2021-07-21": 23
     }
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 402,
-    "timeDay": 349,
-    "timeWeek": 396,
-    "timeMonth": 388,
-    "timeYear": 402,
+    "time": 407,
+    "timeDay": 619,
+    "timeWeek": 440,
+    "timeMonth": 397,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2021-07-21": 23
     }
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 609,
-    "timeDay": 527,
-    "timeWeek": 613,
-    "timeMonth": 591,
-    "timeYear": 609,
+    "time": 617,
+    "timeDay": 976,
+    "timeWeek": 685,
+    "timeMonth": 606,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2021-07-21": 22
     }
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 599,
-    "timeDay": 657,
-    "timeWeek": 742,
-    "timeMonth": 634,
-    "timeYear": 599,
+    "time": 612,
+    "timeDay": 1202,
+    "timeWeek": 842,
+    "timeMonth": 660,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2021-07-21": 22
     }
@@ -112,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 185,
-    "timeDay": 101,
-    "timeWeek": 115,
-    "timeMonth": 106,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 170,
+    "timeWeek": 125,
+    "timeMonth": 108,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-07-21": 21
     }
