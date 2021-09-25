@@ -25,10 +25,10 @@
     "url": "https://tvs.coronacheck.nl/.well-known/openid-configuration",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-open-id-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 182,
@@ -37,6 +37,7 @@
     "timeMonth": 103,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2021-09-25": 2,
       "2021-07-21": 23
     }
   },
@@ -45,10 +46,10 @@
     "url": "https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-sorry-too-busy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 404,
@@ -57,6 +58,7 @@
     "timeMonth": 400,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2021-09-25": 1,
       "2021-07-21": 23
     }
   },
@@ -65,10 +67,10 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/config",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 623,
@@ -77,6 +79,7 @@
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2021-09-25": 1,
       "2021-07-21": 22
     }
   },
@@ -85,10 +88,10 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/config_providers",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-provider-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 708,
@@ -97,6 +100,7 @@
     "timeMonth": 784,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2021-09-25": 1,
       "2021-07-21": 22
     }
   },
@@ -105,7 +109,7 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/access_tokens",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-convert-access-tokens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -117,6 +121,7 @@
     "timeMonth": 1514,
     "timeYear": 639,
     "dailyMinutesDown": {
+      "2021-09-25": 0,
       "2021-09-12": 80,
       "2021-07-21": 21
     }
