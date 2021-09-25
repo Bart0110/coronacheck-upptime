@@ -4,11 +4,11 @@
     "url": "https://tvs.coronacheck.nl/health",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 439,
     "timeDay": 416,
@@ -16,6 +16,7 @@
     "timeMonth": 433,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2021-09-25": 2,
       "2021-07-31": 19,
       "2021-07-21": 24
     }
@@ -25,11 +26,11 @@
     "url": "https://tvs.coronacheck.nl/.well-known/openid-configuration",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-open-id-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 184,
     "timeDay": 209,
@@ -37,7 +38,7 @@
     "timeMonth": 110,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2021-09-25": 19,
+      "2021-09-25": 21,
       "2021-07-21": 23
     }
   },
@@ -46,11 +47,11 @@
     "url": "https://tvs.coronacheck.nl/sorry-too-busy?client_id=cc_web&redirect_uri=&state=",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-login-sorry-too-busy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 406,
     "timeDay": 495,
@@ -58,7 +59,7 @@
     "timeMonth": 407,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2021-09-25": 19,
+      "2021-09-25": 21,
       "2021-07-21": 23
     }
   },
@@ -67,10 +68,10 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/config",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 626,
@@ -79,7 +80,7 @@
     "timeMonth": 632,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2021-09-25": 18,
+      "2021-09-25": 19,
       "2021-07-21": 22
     }
   },
@@ -88,9 +89,9 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/config_providers",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-provider-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -100,7 +101,7 @@
     "timeMonth": 797,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2021-09-25": 18,
+      "2021-09-25": 19,
       "2021-07-21": 22
     }
   },
@@ -109,11 +110,11 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/access_tokens",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-convert-access-tokens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.90%",
     "time": 825,
     "timeDay": 5548,
@@ -121,7 +122,7 @@
     "timeMonth": 1953,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2021-09-25": 35,
+      "2021-09-25": 29,
       "2021-09-12": 80,
       "2021-07-21": 21
     }
