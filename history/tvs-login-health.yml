@@ -1,7 +1,7 @@
 url: https://tvs.coronacheck.nl/health
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2021-10-09T23:11:01.092Z
+status: down
+code: 503
+responseTime: 381
+lastUpdated: 2021-10-10T22:41:33.591Z
 startTime: Thu Jun 24 2021 20:41:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
