@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 443,
     "timeDay": 644,
-    "timeWeek": 459,
+    "timeWeek": 442,
     "timeMonth": 452,
     "timeYear": 443,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.97%",
     "time": 170,
     "timeDay": 159,
-    "timeWeek": 129,
+    "timeWeek": 126,
     "timeMonth": 120,
     "timeYear": 170,
     "dailyMinutesDown": {
@@ -46,18 +46,19 @@
     "url": "https://holder-api.coronacheck.nl/v4/holder/config",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "holder-api-config",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 635,
     "timeDay": 935,
-    "timeWeek": 712,
+    "timeWeek": 686,
     "timeMonth": 670,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2021-10-16": 0,
       "2021-09-25": 18,
       "2021-07-21": 22
     }
@@ -75,7 +76,7 @@
     "uptimeYear": "99.98%",
     "time": 730,
     "timeDay": 1080,
-    "timeWeek": 780,
+    "timeWeek": 745,
     "timeMonth": 819,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -96,7 +97,7 @@
     "uptimeYear": "99.92%",
     "time": 702,
     "timeDay": 168,
-    "timeWeek": 128,
+    "timeWeek": 123,
     "timeMonth": 744,
     "timeYear": 702,
     "dailyMinutesDown": {
