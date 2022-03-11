@@ -1,7 +1,7 @@
 url: https://holder-api.coronacheck.nl/v6/holder/access_tokens
-status: down
-code: 500
-responseTime: 100
-lastUpdated: 2022-03-11T19:21:24.479Z
+status: up
+code: 405
+responseTime: 101
+lastUpdated: 2022-03-11T19:27:36.190Z
 startTime: Thu Jun 24 2021 20:17:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
