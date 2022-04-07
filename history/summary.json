@@ -4,10 +4,10 @@
     "url": "https://max.coronacheck.nl/health",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-max-login-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
@@ -15,7 +15,9 @@
     "timeWeek": 421,
     "timeMonth": 416,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-07": 1
+    }
   },
   {
     "name": "TVS/MAX (Login) - OpenID Config",
