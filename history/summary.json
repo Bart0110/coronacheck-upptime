@@ -4,19 +4,19 @@
     "url": "https://max.coronacheck.nl/health",
     "icon": "https://www.google.com/s2/favicons?domain=coronacheck.nl",
     "slug": "tvs-max-login-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 479,
-    "timeDay": 447,
-    "timeWeek": 462,
-    "timeMonth": 472,
+    "timeDay": 414,
+    "timeWeek": 450,
+    "timeMonth": 468,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 22
     }
   },
   {
