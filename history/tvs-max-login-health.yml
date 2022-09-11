@@ -1,7 +1,7 @@
 url: https://max.coronacheck.nl/health
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2022-09-10T23:14:24.724Z
+status: down
+code: 503
+responseTime: 373
+lastUpdated: 2022-09-11T21:02:37.058Z
 startTime: Mon Feb 14 2022 10:35:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
